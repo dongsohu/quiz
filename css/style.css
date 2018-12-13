@@ -29,7 +29,7 @@ body {
 }
 
 a {
-    color: #0f65ef;
+    color:pink;
     font-weight: bold;
 }
 
@@ -54,4 +54,18 @@ button {
 body{
 
     margin-left:20px;
+}
+#questions{
+    text-align:center;
+}
+.options{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.Qs{
+    font-family: 'Oleo Script', cursive;
+}
+.result{
+    
 }
