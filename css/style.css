@@ -43,12 +43,14 @@ a {
 
 button {
     margin-top: 10px;
-    color: white;
-    background-color: red;
+    color: black;
+    background-color: Pink;
     font-size: 40px;
     border-radius: 25px;
     border:3px groove black ;
-    font-family: monospace;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-shadow: 4px 4px white;
 }
 
 body{
@@ -65,7 +67,11 @@ body{
 }
 .Qs{
     font-family: 'Oleo Script', cursive;
+    text-shadow: 3px 4px pink;
 }
-.result{
+input{
+    font-family: 'Oleo Script', cursive;
+    font-weight: bold;
+    color: black;
     
 }

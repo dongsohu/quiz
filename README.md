@@ -23,20 +23,20 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 2
 ### JS
-- [ ] Use your totalScore variable to store the sum of the result of each function when the user clicks the button.
-- [ ] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage. For now their placement will be "TBD". 
+- [x] Use your totalScore variable to store the sum of the result of each function when the user clicks the button.
+- [x] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage. For now their placement will be "TBD". 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
 ## Day 3
 ### JS
-- [ ] Using the function you created to display the results and conditional statements, write a function that places the user to a tech company based on their total score.
+- [x] Using the function you created to display the results and conditional statements, write a function that places the user to a tech company based on their total score.
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Extensions
-- [ ] Update the HTML and CSS to reflect your own style.
-- [ ] Change the theme of the quiz.
+- [x] Update the HTML and CSS to reflect your own style.
+- [x] Change the theme of the quiz.
 - [ ] Add more questions to your quiz.
 - [ ] Update the function that displays the result so it displays an image in addition to the user-specific placement details.
