@@ -64,7 +64,7 @@ $(document).ready(function() {
         if(questionsTotal === 16){
             $('#answer').text("You are Sushi");
         }else if(questionsTotal <= 15 && questionsTotal >=11){
-            $("#answer").text("You are Burger");
+            $("#answer").text("You are a Burger");
         }else if(questionsTotal <= 10 && questionsTotal >=6){
             $("#answer").text("You are Fries");
         }else{
