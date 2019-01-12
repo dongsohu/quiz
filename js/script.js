@@ -61,7 +61,6 @@ $(document).ready(function() {
     }
     function finale(q1R, q2R, q3R, q4R){
        var questionsTotal = Q1(q1Result) + Q2(q2Result) + Q3(q3Result) + Q4(q4Result);
-       alert(questionsTotal);
         if(questionsTotal === 16){
             $('#answer').text("You are Sushi");
         }else if(questionsTotal <= 15 && questionsTotal >=11){
